@@ -15,7 +15,7 @@ Education
 ------
 - 2021.04 - 2023.03: B.E., Department of Computer Science and Engineering, Toyohashi University of Technology
 - 2023.04 - 2025.03: M.E., Department of Computer Science and Engineering, Toyohashi University of Technology 
-- 2025.04 - Present: M.E., Department of Computer Science and Engineering, Toyohashi University of Technology 
+- 2025.04 - Present: Ph.D., Department of Computer Science and Engineering, Toyohashi University of Technology 
 
 
 Work Experience
