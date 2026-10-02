@@ -28,10 +28,10 @@ Education
 
 Work Experience
 ------
-- 2023.09 - Present: Collaborative research, NTT Communication Science Laboratories
-- 2023.01 - 2025.09: Internship, Poetics Inc.  
 - 2024.08 - 2024.08: Research Assistant, National Institute of Advanced Industrial Science and Technology (AIST)
 - 2023.08 - 2023.09: Research Intern, NTT Human Informatics Laboratories
+- 2023.01 - 2025.09: Internship, Poetics Inc.  
+- 2022.09 - Present: Collaborative research, NTT Communication Science Laboratories
 
 
 Awards
@@ -42,7 +42,9 @@ Awards
 
 Grants
 ------
-- 2025.04 - 2028.03: TUT-DC Fellowship (JST-SPRING)
+- 2027.04 - 2029.03: JSPS Research Fellow (DC2)
+- 2025.04 - 2027.03: TUT-DC Fellowship (JST-SPRING)
+- 2023.04 - 2025.03: Repayment Exemption for Outstanding Achievements, JASSO
 
 </div>
 
@@ -62,10 +64,10 @@ Grants
 
 職歴
 ------
-- 2023.09 - 現在: NTTコミュニケーション科学基礎研究所, 共同研究
-- 2023.01 - 2025.09: 株式会社Poetics, インターンシップ
 - 2024.08 - 2024.08: 産業技術総合研究所 知的メディア処理研究チーム, リサーチアシスタント
 - 2023.08 - 2023.09: NTT人間情報研究所, インターンシップ
+- 2023.01 - 2025.09: 株式会社Poetics, インターンシップ
+- 2022.09 - 現在: NTTコミュニケーション科学基礎研究所, 共同研究
 
 
 受賞等
@@ -76,7 +78,9 @@ Grants
 
 助成
 ------
-- 2025.04 - 2028.03: TUT-DC Fellowship (JST-SPRING)
+- 2027.04 - 2029.03: 日本学術振興会特別研究員-DC2
+- 2025.04 - 2027.03: TUT-DC Fellowship (JST-SPRING)
+- 2023.04 - 2025.03: 日本学生支援機構（JASSO）第一種奨学金 特に優れた業績による返還免除
 
 
 <!-- 資格

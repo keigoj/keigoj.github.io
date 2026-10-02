@@ -6,18 +6,22 @@ author_profile: true
 
 Journal papers
 ------
-1. **Keigo** Hojo, Yukoh Wakabayashi, Kengo Ohta, Atsunori Ogawa, Norihide Kitaoka, "Integration of multiple acoustic information included in end-to-end ASR models via density ratio approach for Japanese language,” APSIPA Transactions on Signal and Information Processing, (Accepted), 2026.
+1. **Keigo Hojo**, Yukoh Wakabayashi, Kengo Ohta, Atsunori Ogawa, Norihide Kitaoka, "Integration of multiple acoustic information included in end-to-end ASR models via density ratio approach for Japanese language,” APSIPA Transactions on Signal and Information Processing, vol. 15, No. 1, pp. 380--396, May 2026.
 
 International Conferences (Peer-reviewed)
 ------
+1. Yuya Mineno, **Keigo Hojo**, Tatsunari Takagi, Yukoh Wakabayashi, Ryota Nishimura, Kengo Ohta, Norihide Kitaoka, "Confidence-Aware Labeling of Recognition-Difficult Parts in End-to-End ASR," in Proc. APSIPA ASC, (Accepted), 2026.
+1. Outdam Ouk, **Keigo Hojo**, Dessi Puji Lestari, Ayu Purwarianti, Ryota Nishimura, Norihide Kitaoka, "Indonesian–Sundanese Code-Switching Speech Recognition and Normalization", in Proc. ICAICTA, (Accepted), 2026. 
 1. Kaito Takahashi, **Keigo Hojo**, Toshimitsu Sakai, Yukoh Wakabayashi, Norihide Kitaoka, "Fine-tuning Parakeet-TDT for dysarthric speech secognition in the speech accessibility project Challenge," in Proc. INTERSPEECH, Netherlands, Aug 2025.
 1. Tomohiko Nakamura, Kwanghee Choi, **Keigo Hojo**, Yoshiaki Bando, Satoru Fukayama, Shinji Watanabe, "Discrete speech unit extraction via independent component analysis," in Proc. ICASSP SALMA Workshop, India, Apr 2025.
-1. **Keigo Hojo**, Yukoh Wakabayashi, Kengo Ohta, Atsunori Ogawa, Norihide Kitaoka, "Boosting CTC-based ASR using inter-layer attention-based CTC loss," in Proc. INTERSPEECH, pp. 2860-2864, Greece, Sep 2024.
-1. **Keigo Hojo**, Daiki Mori, Yukoh Wakabayashi, Kengo Ohta, Atsunori Ogawa, Norihide Kitaoka, "Combining Multiple End-To-End Speech Recognition Models Based on Density Ratio Approach" in Proc. APSIPAASC 2023, pp.2250-2255, Taiwan, Nov 2023.
+1. **Keigo Hojo**, Yukoh Wakabayashi, Kengo Ohta, Atsunori Ogawa, Norihide Kitaoka, "Boosting CTC-based ASR using inter-layer attention-based CTC loss," in Proc. INTERSPEECH, pp. 2860--2864, Greece, Sep 2024.
+1. **Keigo Hojo**, Daiki Mori, Yukoh Wakabayashi, Kengo Ohta, Atsunori Ogawa, Norihide Kitaoka, "Combining Multiple End-To-End Speech Recognition Models Based on Density Ratio Approach" in Proc. APSIPA ASC, pp.2250--2255, Taiwan, Nov 2023.
 
 
 Domestic Conferences (Non-peer-reviewed)
 ------
+1. 峰野 侑也，**北條 圭悟**，高城 巽成，若林 佑幸，西村 良太，太田 健吾，北岡 教英, "音声認識モデル出力の信頼度推定に基づく認識困難箇所の明示," 日本音響学会秋季研究発表会, 2-7-6, 石川, 2026年9月.
+1. Ouk Outdam，**北條 圭悟**，高城 巽成，若林 佑幸，西村 良太，太田 健吾，北岡 教英, "言語・非言語現象を出力する音声認識のための韻律特徴量統合手法," 日本音響学会秋季研究発表会, 1-Q-23, 石川, 2026年9月.
 1. **北條 圭悟**, 若林 佑幸, 太田 健吾, 小川 厚徳, 北岡 教英, "複数音声認識モデルの統合による未知ドメインへの頑健な適応手法," 日本音響学会春季研究発表会, 1-5-7, 東京, 2026年3月.
 1. 渡部 達貴, **北條 圭悟**, 高城 巽成, 若林 佑幸, 太田 健吾, 西村 良太, ハン ボムソク, 鷲崎 海, 北岡 教英, "藤崎モデルによる基本周波数制御に基づく分析合成音声を用いた強調箇所指定可能な音声合成モデル," 日本音響学会春季研究発表会, 2-5-6, 2026年3月.
 1. 峰野 侑也, **北條 圭悟**, 高城 巽成, 若林 佑幸, 太田 健吾, 西村 良太, 北岡 教英, "言語尤度を考慮したEnd-to-End音声認識モデルの信頼度推定,"  日本音響学会春季研究発表会, 3-Q-39, 2026年3月.
