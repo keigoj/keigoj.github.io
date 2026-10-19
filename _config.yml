@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "ja-JP"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Keigo Hojo"
+title                    : "Keigo Hojo / 北條圭悟"
 title_separator          : "-"
 name                     : &name "Keigo Hojo"
 description              : &description "Ph.D. student at Toyohashi University of Technology. Research interests include automatic speech recognition, speech processing, and deep learning."
@@ -188,6 +188,8 @@ exclude:
   - README
   - tmp
   - vendor
+  - _publications
+  - _pages/publications.html
 keep_files:
   - .git
   - .svn
