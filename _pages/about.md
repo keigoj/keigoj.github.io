@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Keigo Hojo / 北條圭悟"
+title: "About"
 description: "Keigo Hojo is a Ph.D. student at Toyohashi University of Technology, researching automatic speech recognition and speech processing."
 author_profile: true
 redirect_from: 
