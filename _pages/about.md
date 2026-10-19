@@ -1,6 +1,7 @@
 ---
 permalink: /
-title: "About"
+title: "Keigo Hojo / 北條圭悟"
+description: "Keigo Hojo is a Ph.D. student at Toyohashi University of Technology, researching automatic speech recognition and speech processing."
 author_profile: true
 redirect_from: 
   - /about/
@@ -64,6 +65,7 @@ Grants
 
 職歴
 ------
+<!-- - 2026.11 - 現在: ソニーグループ会社, 長期有給インターンシップ -->
 - 2024.08 - 2024.08: 産業技術総合研究所 知的メディア処理研究チーム, リサーチアシスタント
 - 2023.08 - 2023.09: NTT人間情報研究所, インターンシップ
 - 2023.01 - 2025.09: 株式会社Poetics, インターンシップ
