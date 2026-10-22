@@ -21,18 +21,19 @@ I'm interested in speech processing, deep learning, and automatic speech recogni
 
 Education
 ------
-- 2025.04 - Present: Ph.D., Department of Computer Science and Engineering, Toyohashi University of Technology 
-- 2023.04 - 2025.03: M.E., Department of Computer Science and Engineering, Toyohashi University of Technology 
-- 2021.04 - 2023.03: B.E., Department of Computer Science and Engineering, Toyohashi University of Technology
-- 2016.04 - 2021.03: Associate Degree, Department of Intelligent Systems Engineering, National Institute of Technology, Ichinoseki College
+- <span class="date-range">2025.04 - Present</span> : Ph.D., Department of Computer Science and Engineering, Toyohashi University of Technology
+- <span class="date-range">2023.04 - 2025.03</span> : M.E., Department of Computer Science and Engineering, Toyohashi University of Technology
+- <span class="date-range">2021.04 - 2023.03</span> : B.E., Department of Computer Science and Engineering, Toyohashi University of Technology
+- <span class="date-range">2016.04 - 2021.03</span> : Associate Degree, Department of Intelligent Systems Engineering, National Institute of Technology, Ichinoseki College
 
 
 Work Experience
 ------
-- 2024.08 - 2024.08: Research Assistant, National Institute of Advanced Industrial Science and Technology (AIST)
-- 2023.08 - 2023.09: Research Intern, NTT Human Informatics Laboratories
-- 2023.01 - 2025.09: Internship, Poetics Inc.  
-- 2022.09 - Present: Collaborative research, NTT Communication Science Laboratories
+- <span class="date-range">2026.11 - Present</span> : Sony Group Corporation, Graduate Internship
+- <span class="date-range">2024.08 - 2024.08</span> : National Institute of Advanced Industrial Science and Technology (AIST), Research Assistant
+- <span class="date-range">2023.08 - 2023.09</span> : NTT Human Informatics Laboratories, Research Internship
+- <span class="date-range">2023.01 - 2025.09</span> : Internship, Poetics Inc.
+- <span class="date-range">2022.09 - 2025.03</span> : NTT Communication Science Laboratories, Collaborative research
 
 
 Awards
@@ -43,9 +44,9 @@ Awards
 
 Grants
 ------
-- 2027.04 - 2029.03: JSPS Research Fellow (DC2)
-- 2025.04 - 2027.03: TUT-DC Fellowship (JST-SPRING)
-- 2023.04 - 2025.03: Repayment Exemption for Outstanding Achievements, JASSO
+- <span class="date-range">2027.04 - 2029.03</span> : JSPS Research Fellow (DC2)
+- <span class="date-range">2025.04 - 2027.03</span> : TUT-DC Fellowship (JST-SPRING)
+- <span class="date-range">2023.04 - 2025.03</span> : Repayment Exemption for Outstanding Achievements, JASSO
 
 </div>
 
@@ -57,19 +58,19 @@ Grants
 
 学歴
 ------
-- 2025.04 - 現在: 豊橋技術科学大学 工学研究科 情報・知能工学専攻 博士後期課程在学
-- 2023.04 - 2025.03: 豊橋技術科学大学 工学研究科 情報・知能工学専攻 博士前期課程 修了 
-- 2021.04 - 2023.03: 豊橋技術科学大学 工学部 情報・知能工学課程 卒業
-- 2016.04 - 2021.03: 一関工業高等専門学校 制御情報工学科 卒業
+- <span class="date-range">2025.04 - 現在</span> : 豊橋技術科学大学 工学研究科 情報・知能工学専攻 博士後期課程在学
+- <span class="date-range">2023.04 - 2025.03</span> : 豊橋技術科学大学 工学研究科 情報・知能工学専攻 博士前期課程 修了
+- <span class="date-range">2021.04 - 2023.03</span> : 豊橋技術科学大学 工学部 情報・知能工学課程 卒業
+- <span class="date-range">2016.04 - 2021.03</span> : 一関工業高等専門学校 制御情報工学科 卒業
 
 
 職歴
 ------
-<!-- - 2026.11 - 現在: ソニーグループ会社, 長期有給インターンシップ -->
-- 2024.08 - 2024.08: 産業技術総合研究所 知的メディア処理研究チーム, リサーチアシスタント
-- 2023.08 - 2023.09: NTT人間情報研究所, インターンシップ
-- 2023.01 - 2025.09: 株式会社Poetics, インターンシップ
-- 2022.09 - 現在: NTTコミュニケーション科学基礎研究所, 共同研究
+- <span class="date-range">2026.11 - 現在</span> : ソニーグループ会社, 長期有給インターンシップ
+- <span class="date-range">2024.08 - 2024.08</span> : 産業技術総合研究所 知的メディア処理研究チーム, リサーチアシスタント
+- <span class="date-range">2023.08 - 2023.09</span> : NTT人間情報研究所, インターンシップ
+- <span class="date-range">2023.01 - 2025.09</span> : 株式会社Poetics, インターンシップ
+- <span class="date-range">2022.09 - 2025.03</span> : NTTコミュニケーション科学基礎研究所, 共同研究
 
 
 受賞等
@@ -80,9 +81,9 @@ Grants
 
 助成
 ------
-- 2027.04 - 2029.03: 日本学術振興会特別研究員-DC2
-- 2025.04 - 2027.03: TUT-DC Fellowship (JST-SPRING)
-- 2023.04 - 2025.03: 日本学生支援機構（JASSO）第一種奨学金 特に優れた業績による返還免除
+- <span class="date-range">2027.04 - 2029.03</span> : 日本学術振興会特別研究員-DC2
+- <span class="date-range">2025.04 - 2027.03</span> : TUT-DC Fellowship (JST-SPRING)
+- <span class="date-range">2023.04 - 2025.03</span> : 日本学生支援機構（JASSO）第一種奨学金 特に優れた業績による返還免除
 
 
 <!-- 資格
@@ -94,6 +95,14 @@ Grants
 </div>
 
 <style>
+  .date-range {
+    display: inline-block;
+    width: var(--date-range-width, auto);
+    text-align: left;
+    white-space: nowrap;
+    font-variant-numeric: tabular-nums;
+  }
+
   .language-switcher {
     display: flex;
     gap: 0.5rem;
@@ -123,6 +132,24 @@ Grants
     var buttons = document.querySelectorAll("[data-lang-switch]");
     var contents = document.querySelectorAll("[data-lang-content]");
 
+    function alignDateRanges() {
+      contents.forEach(function (content) {
+        if (content.hidden) return;
+
+        var dates = content.querySelectorAll(".date-range");
+        var maxWidth = 0;
+        content.style.removeProperty("--date-range-width");
+
+        dates.forEach(function (date) {
+          maxWidth = Math.max(maxWidth, date.getBoundingClientRect().width);
+        });
+
+        if (maxWidth > 0) {
+          content.style.setProperty("--date-range-width", Math.ceil(maxWidth) + "px");
+        }
+      });
+    }
+
     function setLanguage(language) {
       buttons.forEach(function (button) {
         var active = button.getAttribute("data-lang-switch") === language;
@@ -133,6 +160,8 @@ Grants
       contents.forEach(function (content) {
         content.hidden = content.getAttribute("data-lang-content") !== language;
       });
+
+      alignDateRanges();
     }
 
     buttons.forEach(function (button) {
@@ -140,5 +169,11 @@ Grants
         setLanguage(button.getAttribute("data-lang-switch"));
       });
     });
+
+    alignDateRanges();
+    window.addEventListener("resize", alignDateRanges);
+    if (document.fonts) {
+      document.fonts.ready.then(alignDateRanges);
+    }
   })();
 </script>
