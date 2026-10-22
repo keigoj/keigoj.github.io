@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-description: "Keigo Hojo is a Ph.D. student at Toyohashi University of Technology, researching automatic speech recognition and speech processing."
+description: "Keigo Hojo is a Ph.D. student at Toyohashi University of Technology, researching spoken language processing, particularly automatic speech recognition, including dysarthric speech recognition."
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,7 +16,7 @@ redirect_from:
 <div data-lang-content="en" markdown="1">
 
 I am a Ph.D. student in the Department of Computer Science and Engineering at Toyohashi University of Technology, supervised by Prof. Norihide Kitaoka.  
-I'm interested in speech processing, deep learning, and automatic speech recognition.  
+I'm interested in spoken language processing, particularly automatic speech recognition, including dysarthric speech recognition.
 
 
 Education
